@@ -17,7 +17,7 @@ root_agent = Agent(
     tools=[
         MCPToolset(
             connection_params=StreamableHTTPConnectionParams(
-                url="https://mcp-server-913270881963.europe-southwest1.run.app/mcp",
+                url="YOUR_MCP_SERVER_URL",
                 headers={}
                 ),
                 )
