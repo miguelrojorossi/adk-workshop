@@ -2,13 +2,13 @@ from google.adk.agents import LlmAgent
 from google.adk.tools import VertexAiSearchTool
 from google.adk.a2a.utils.agent_to_a2a import to_a2a
  
-PROJECT_ID = "mrr-ai"
+PROJECT_ID = "YOUR_PROJECT_ID"
 LOCATION = "global"
-DATASTORE_ID = "bbva-sustainability-docs_1759233294445"
+DATASTORE_ID = "your_datastore_id"
 GEMINI_MODEL = "gemini-2.0-flash"
 
 GOOGLE_GENAI_USE_VERTEXAI="TRUE"
-GOOGLE_CLOUD_PROJECT="mrr-ai"
+GOOGLE_CLOUD_PROJECT="YOUR_PROJECT_ID"
 GOOGLE_CLOUD_LOCATION="europe-southwest1"
 
 # The full datastore path is constructed from the environment variables.
