@@ -1,0 +1,10 @@
+google-cloud-aiplatform[agent_engines]==1.119.0
+cloudpickle
+google-genai
+google-cloud-discoveryengine
+pydantic
+python-dotenv
+google-auth-oauthlib
+typer
+fastapi
+fastmcp
