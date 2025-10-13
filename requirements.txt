@@ -1,4 +1,4 @@
-google-cloud-aiplatform[agent_engines]==1.119.0
+google-cloud-aiplatform[agent_engines]
 cloudpickle
 google-genai
 google-cloud-discoveryengine
@@ -8,3 +8,4 @@ google-auth-oauthlib
 typer
 fastapi
 fastmcp
+google-adk[a2a]
