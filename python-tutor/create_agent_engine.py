@@ -1,8 +1,8 @@
 import vertexai
 from vertexai import agent_engines
 
-PROJECT_ID = "mrr-ai"
-LOCATION = "europe-southwest1"
+PROJECT_ID = "YOUR_PROJECT_ID"
+LOCATION = "YOUR_LOCATION"
 
 display_name = "Python Tutor"
 
